@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamarinRest.AddClient">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Cliente"/>
+            <Label Text="{Binding id}" x:Name="id"/>
+            <Entry Placeholder="Ingrese su nombre" x:Name="clientes" Text="{Binding nombre}" />
+            <Entry Placeholder="Ingrese su edad" x:Name="edades" Text="{Binding edad}" />
+            <Button  x:Name="Guardar" Text="Guardar" Style="Warning" Clicked="Post_Client"/>
+            <!--<Button IsEnabled="False" IsVisible="False" x:Name="Actualizar" Text="Actualizar" Style="Warning" Clicked="Post_Client"/>
+            <Button x:Name="Eliminar" Text="Eliminar" Clicked="Delete_Client"/>-->
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,13 @@
+C:\Users\David\Desktop\XamarinRest\XamarinRest\XamarinRest\bin\Debug\netstandard2.0\XamarinRest.deps.json
+C:\Users\David\Desktop\XamarinRest\XamarinRest\XamarinRest\bin\Debug\netstandard2.0\XamarinRest.dll
+C:\Users\David\Desktop\XamarinRest\XamarinRest\XamarinRest\obj\Debug\netstandard2.0\XamarinRest.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\XamarinRest\XamarinRest\XamarinRest\obj\Debug\netstandard2.0\XamarinRest.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\XamarinRest\XamarinRest\XamarinRest\obj\Debug\netstandard2.0\XamarinRest.App.xaml.g.cs
+C:\Users\David\Desktop\XamarinRest\XamarinRest\XamarinRest\obj\Debug\netstandard2.0\XamarinRest.MainPage.xaml.g.cs
+C:\Users\David\Desktop\XamarinRest\XamarinRest\XamarinRest\obj\Debug\netstandard2.0\XamarinRest.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\XamarinRest\XamarinRest\XamarinRest\obj\Debug\netstandard2.0\XamarinRest.AssemblyInfo.cs
+C:\Users\David\Desktop\XamarinRest\XamarinRest\XamarinRest\bin\Debug\netstandard2.0\XamarinRest.pdb
+C:\Users\David\Desktop\XamarinRest\XamarinRest\XamarinRest\obj\Debug\netstandard2.0\XamarinRest.dll
+C:\Users\David\Desktop\XamarinRest\XamarinRest\XamarinRest\obj\Debug\netstandard2.0\XamarinRest.pdb
+C:\Users\David\Desktop\XamarinRest\XamarinRest\XamarinRest\obj\Debug\netstandard2.0\XamarinRest.AddClient.xaml.g.cs
+C:\Users\David\Desktop\XamarinRest\XamarinRest\XamarinRest\obj\Debug\netstandard2.0\XamarinRest.ManageClient.xaml.g.cs

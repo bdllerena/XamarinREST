@@ -1,0 +1,1 @@
+C:\Users\David\Desktop\XamarinRest\XamarinRest\XamarinRest.UWP\XamarinRest.UWP.csproj;x86
