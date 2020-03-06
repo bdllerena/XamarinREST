@@ -1,5 +1,6 @@
 # XamarinREST
-http://ec2-54-245-141-110.us-west-2.compute.amazonaws.com/pizzafast/public/index.php/client
+## Descripción
+Creación de servicios REST utilizando Xamarin para plataformas Android/IOS
 ![alt text](https://i.imgur.com/GS3GlTK.png)
 ![alt text](https://i.imgur.com/e1Iujmx.png)
 ![alt text](https://i.imgur.com/TJwz70M.png)
